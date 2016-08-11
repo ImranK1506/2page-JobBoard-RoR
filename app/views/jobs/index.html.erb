@@ -1,10 +1,12 @@
-<% @jobs.each do |job| %>
-<h2>
-  <%= link_to job.title, job %>
-</h2>
-<p>
-  <%= job.company %>
-</p>
-<%= link_to "New Job", new_job_path %>
-
-<% end %>
+<div id="jobs">
+  <% @jobs.each do |job| %>
+    <div class="job">
+      <h2>
+        <%= link_to job.title, job %>
+      </h2>
+      <p>
+        <%= job.company %>
+      </p>
+    </div>
+  <% end %>
+</div>
