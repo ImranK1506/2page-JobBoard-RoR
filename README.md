@@ -1,11 +1,14 @@
 <h1>Job Board</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first Job Board app with Rails as part of my final project for my course Web Dev 100.
 
-Things you may want to cover:
+<h2>Specifications</h2>
 
 * Ruby version
+2.3.1
+
+* Rails version
+4.2.6
 
 * System dependencies
 
