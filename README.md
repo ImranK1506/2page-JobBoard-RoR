@@ -12,4 +12,4 @@ This is my first Job Board app with Rails as part of my final project for my cou
 
 <h2>Author</h2>
 Imran Khan
-<tt>rake doc:app</tt>.
+
